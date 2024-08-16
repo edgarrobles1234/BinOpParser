@@ -17,6 +17,7 @@ outputs of all three forms, `infix`, `prefix`, and `postfix`.
 
 
 So for a test called `simple`, your directory structure would look like this:
+```
 .
 ├── README.md
 ├── binexp_parser.py
@@ -30,7 +31,7 @@ So for a test called `simple`, your directory structure would look like this:
         │   └── simple
         └── prefix
             └── simple
-
+```
 Your program should be setup so that adding a new test only involves adding the
 input file and the three output files. In addition to testing, this will give
 you additional familarity with walking directory structures.
