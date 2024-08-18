@@ -92,7 +92,7 @@ So an input of `+ 1 * 2 1` would simply reduce to `+ 1 2`.
 The first optional task is to reduce any multiplication by 0 with simply 0.
 This one is pretty easy!
 
-An input of `+ 1 * 0 1` would simply reduce to `+ 1 0`
+An input of `+ 1 * 0 + 7 5` would simply reduce to `+ 1 0`
 
 ### Optional Task 4: Constant Folding
 
